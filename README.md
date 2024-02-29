@@ -16,12 +16,14 @@ Bônus: Um curto ebook sobre o assunto abordado no podcast
 
 ## 🤖 Tecnologias Utilizadas
 [ChatGPT](https://chat.openai.com/) - Roteirização 
+
 [inVideo AI](https://invideo.io/) - Vídeo com artes visuais
+
 [Eleven Labs](https://elevenlabs.io/) - Clonagem e sintetização de voz
+
 [Shot Cut](https://shotcut.org/) - Inserção, edição e complicação dos conteúdos gerados por I.A
+
 [eBook Maker](https://www.ebookmaker.ai/) - Criação de eBooks
-
-
 
 
 
@@ -32,8 +34,11 @@ Por fim, o conteúdo final foi disponilizado no Youtube, conforme link abaixo.
 Bônus: Um ebook foi gerado a partir das palavras chaves geradas na roteirização do podcast.
 
 ## 🚀 Resultados
-[eBook](https://www.ebookmaker.ai/o-mundos-dos-jogos-e-da-tecnologia): https://www.ebookmaker.ai/o-mundos-dos-jogos-e-da-tecnologia
-[eBook](https://www.ebookmaker.ai/o-mundos-dos-jogos-e-da-tecnologia): https://www.ebookmaker.ai/o-mundos-dos-jogos-e-da-tecnologia
+[YouTube](https://youtu.be/NHBlnytMdgk)
+
+[eBook](https://www.ebookmaker.ai/o-mundos-dos-jogos-e-da-tecnologia)
+
+
 ## Links Interessantes
 
 [Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
